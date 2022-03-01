@@ -1,0 +1,27 @@
+{
+  "name": "expressproject",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "file": "^0.2.2",
+    "file-name": "^0.1.0",
+    "formidable": "^2.0.1",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.3",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.13",
+    "path": "^0.12.7"
+  }
+}
